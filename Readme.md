@@ -1,4 +1,4 @@
-[![ANAYAT-XMD](https://raw.githubusercontent.com/ANAYAT-XMD/ANAYAT-XMD/main/ANAYAT-XMD/anayat.svg)](https://whatsapp.com/channel/0029VbAm8LqL2ATpxklIct2g)
+[![ANAYAT-AI](https://raw.githubusercontent.com/ANAYAT-XMD/ANAYAT-XMD/main/ANAYAT-XMD/anayat.svg)](https://whatsapp.com/channel/0029VbAm8LqL2ATpxklIct2g)
 
 ___
 

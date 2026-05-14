@@ -1,9 +1,9 @@
-[![ANAYAT-AI](https://raw.githubusercontent.com/ANAYAT-AI/ANAYAT-AI/main/ANAYAT-AI/anayat.svg)](https://whatsapp.com/channel/0029VbAm8LqL2ATpxklIct2g)
+[![ANAYAT-XMD](https://raw.githubusercontent.com/ANAYAT-XMD/ANAYAT-XMD/main/ANAYAT-XMD/anayat.svg)](https://whatsapp.com/channel/0029VbAm8LqL2ATpxklIct2g)
 
 ___
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&duration=4000&pause=1000&color=FF00FF&center=true&vCenter=true&repeat=true&width=1000&height=100&lines=⚡+ANAYAT-AI+Powerful+Bot+⚡;Next+Gen+WhatsApp+AI+Bot;Fast+%7C+Secure+%7C+Multi-Device;Deploy+Now+and+Rule+🚀" alt="ANAYAT-AI Animated Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&duration=4000&pause=1000&color=FF00FF&center=true&vCenter=true&repeat=true&width=1000&height=100&lines=⚡+ANAYAT-XMD+Powerful+Bot+⚡;Next+Gen+WhatsApp+AI+Bot;Fast+%7C+Secure+%7C+Multi-Device;Deploy+Now+and+Rule+🚀" alt="ANAYAT-XMD Animated Banner" />
 </h1>
 
 ___
@@ -18,7 +18,7 @@ ___
 
 <p align="center">
   <a href="https://github.com/ANAYAT/ANAYAT-AI/fork">
-    <img src="./ANAYAT-AI/fork-btn.svg" alt="Fork Repository"/>
+    <img src="./ANAYAT-XMD/fork-btn.svg" alt="Fork Repository"/>
   </a>
 </p>
 
@@ -27,7 +27,7 @@ ___
 
 <p align="center">
   <a href="https://anayat-ai-new-paring-2026.onrender.com">
-    <img src="./ANAYAT-AI/get-session-btn.svg" alt="GET SESSION" width="260"/>
+    <img src="./ANAYAT-XMD/get-session-btn.svg" alt="GET SESSION" width="260"/>
   </a>
 </p>
 
@@ -76,6 +76,6 @@ ___
 ___
 
 ### ⭐ Support
-If you like **ANAYAT-AI**, give it a ⭐ on GitHub — it helps others find this bot easily!
+If you like **ANAYAT-XMD**, give it a ⭐ on GitHub — it helps others find this bot easily!
 
 <p align="center">𝙼𝙰𝙳𝙴 𝚆𝙸𝚃𝙷 🤍 𝙱𝚈 <b>𓆩𝙰𝙽𝙰𝚈𝙰𝚃 𝙷𝙰𝙲𝙺𝙴𝚁🐍🍷🌹</b></p>

@@ -26,7 +26,7 @@ ___
 <h1 align="center"> 𝙶𝙴𝚃 𝚂𝙴𝚂𝚂𝙸𝙾𝙽 </h1>
 
 <p align="center">
-  <a href="https://anayat-ai-new-paring-2026.onrender.com">
+  <a href="anayat-xmd-session-site-production.up.railway.app">
     <img src="./ANAYAT-XMD/get-session-btn.svg" alt="GET SESSION" width="260"/>
   </a>
 </p>
